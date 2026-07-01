@@ -1,5 +1,5 @@
 {
-  "_base": "https://raw.githubusercontent.com/kvlmgk/strudel-crate/main/",
+  "_base": "https://raw.githubusercontent.com/kvlmgk/crate/main/",
   "crate_sd": [
     "crate_sd/snare-aprilshowers-1.wav",
     "crate_sd/snare-aprilshowers-2.wav",
